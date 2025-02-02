@@ -10,7 +10,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: linear-gradient(210deg,rgb(21, 227, 242) 50%, rgb(24, 74, 181) 50%);
+    /* background-image: linear-gradient(210deg,rgb(25, 141, 150) 50%, rgb(174, 199, 254) 50%); */
 }
 
 .calc{
